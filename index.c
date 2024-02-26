@@ -58,3 +58,16 @@ int main()
     }
     return 0;
 }
+
+
+// input 
+// 3 4
+// 1 2 3 4
+// 5 6 7 8
+// 9 10 11 12
+
+// output :
+// row sum   : 10 26 42 
+// Column sum : 15 18 21 24 
+
+
